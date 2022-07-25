@@ -19,9 +19,10 @@
 <main>		  
       <div class="container-login">
         <div class="wrap-login">
-		<a href="index.php"><img src='./images/logo_peq.jpg'></a><br> <!--logo de la institución -->
+		<a href="index.php"><img src='./images/logo_peq.jpg'></a><br><br> <!--logo de la institución -->
             <form class="login-form validate-form" id="formLogin" action="" method="post">
-                <span class="login-form-title"><br>Iniciar Sesión</span>
+                <a class="boton_iniciosesion" href="signup.php">Registrarse</a><br><!-- Boton registrarse -->	
+				<span class="login-form-title"><br>Iniciar Sesión</span>
                 <div class="wrap-input100" data-validate = "Usuario incorrecto">
                     <input class="input100" type="text" id="usuario" name="usuario" placeholder="Usuario">
                     <span class="focus-efecto"></span>
@@ -51,4 +52,4 @@
 <!-- Fin de código cabecera de página -->     
     </body>
 </html>
-<!-- Desarrollado por: ANA ANGEL - © Todos los derechos reservados 2022 -->
+<!-- Desarrollado por: Rolando Picon - © Todos los derechos reservados 2022 -->
