@@ -53,4 +53,4 @@
 </body>
 </html>
 <!-- Codigo de pagina de inicio -->
-<!-- Desarrollado por: ANA ANGEL - © Todos los derechos reservados 2022 -->
+<!-- Desarrollado por: Rolando Picon - © Todos los derechos reservados 2022 -->
